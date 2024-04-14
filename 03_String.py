@@ -3,4 +3,4 @@ s = 'welcome to strings tutorial'
 
 print(s)
 
-print(f'substring: {s[5:]}')
+print(f'substring: {s[6:]}')
